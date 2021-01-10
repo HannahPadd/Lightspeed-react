@@ -97,7 +97,7 @@ const App = () => {
       <header className="App-header">
         <div className="logo-header">
           <img id="logo-img" src="/images/lightspeedlogo.svg"></img>
-          <h1>Comentator Restream</h1>
+          <h1>Commentator Restream</h1>
         </div>
         <div></div>
       </header>
